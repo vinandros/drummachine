@@ -1,1 +1,1 @@
-# drummachine project fro freecodecamp certification
+# drummachine project for freecodecamp certification
